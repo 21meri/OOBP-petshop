@@ -1,0 +1,1 @@
+<img src="<?php echo e(asset('/images/mylogo51.png')); ?>" alt="logo" width="64px" height="64"/><?php /**PATH C:\Users\Korisnik\Desktop\Sapice\resources\views/components/authentication-card-logo.blade.php ENDPATH**/ ?>
